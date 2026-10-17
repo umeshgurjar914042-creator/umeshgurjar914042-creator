@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Umesh Gurjar 👋
 
-<!--
-**umeshgurjar914042-creator/umeshgurjar914042-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Generative AI Engineer from Uttar Pradesh, India.
 
-Here are some ideas to get you started:
+## What I'm working on
+- RAG chatbot with Python, Gemini API, ChromaDB and Streamlit
+- SQL and pandas practice
+- No-code AI automations (n8n, Zapier, Botpress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Live project
+🔗 [Company Policy RAG Chatbot](https://rag-chatbot-gcc8r4o8uzmtqjn2qeqrup.streamlit.app)
+
+## Currently learning
+FastAPI, Docker, LangChain
+
+## Tech
+Python • SQL • pandas • RAG • ChromaDB • Gemini API • Streamlit • Git
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/umesh-gurjar-5950803aa)
