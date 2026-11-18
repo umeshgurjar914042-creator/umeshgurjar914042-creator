@@ -1,20 +1,23 @@
 # Hi, I'm Umesh Gurjar 👋
 
-Aspiring Generative AI Engineer from Uttar Pradesh, India.
+Aspiring Data Analyst and GenAI Engineer from Uttar Pradesh, India.
 
 ## What I'm working on
-- RAG chatbot with Python, Gemini API, ChromaDB and Streamlit
-- SQL and pandas practice
-- No-code AI automations (n8n, Zapier, Botpress)
+- Learning data analysis with Excel, SQL and pandas
+- A RAG chatbot (live demo below)
+- Practice projects in SQL, FastAPI, Docker and pytest
 
 ## Live project
 🔗 [Company Policy RAG Chatbot](https://rag-chatbot-gcc8r4o8uzmtqjn2qeqrup.streamlit.app)
 
 ## Currently learning
-FastAPI, Docker, LangChain
+- Excel: pivot tables and XLOOKUP
+- SQL: JOINs and window functions
+- Python: pandas for data cleaning and analysis
+- Dashboards: Looker Studio / Tableau Public
 
 ## Tech
-Python • SQL • pandas • RAG • ChromaDB • Gemini API • Streamlit • Git
+Python • SQL • pandas • Excel • RAG • ChromaDB • Streamlit • FastAPI • Docker (basic) • Git
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/umesh-gurjar-5950803aa)
